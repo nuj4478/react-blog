@@ -19,7 +19,8 @@
 <li>CSS</li>
 </ul>
 <h3>2 디렉터리 구조 설명</h3>
-<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto" data-snippet-clipboard-copy-content="└── XMON FE CORDING TEST
+<div data-snippet-clipboard-copy-content="
+└── XMON FE CORDING TEST
     ├── img                         # 이미지 저장 폴더
     ├── style                       # css파일 저장 폴더
     └── js                          # js파일 저장 푤더   
@@ -30,7 +31,7 @@
     ├── answer.html                 
     └── question.html             "><pre>└── XMON FE CORDING TEST
     ├── img                         <span class="pl-c"><span class="pl-c">#</span> 이미지 저장 폴더</span>
-    ├── style                       <span class="pl-c"><span class="pl-c">#</span> css파일� 저장 폴더</span>
+    ├── style                       <span class="pl-c"><span class="pl-c">#</span> css파일 저장 폴더</span>
     └── js                          <span class="pl-c"><span class="pl-c">#</span> js파일 저장 푤더   </span>
          ├── jquery-3.3.1.min.js    <span class="pl-c"><span class="pl-c">#</span> jquery core 최신버전</span>
          ├── Memo.js                <span class="pl-c"><span class="pl-c">#</span> Memo class 로직이 있는 file</span>
@@ -58,7 +59,7 @@
 </tbody>
 </table>
 <h3>5. 과제 요구사항</h3>
-<ul dir="auto">
+<ul>
 <li>바탕화면(쪽지가 아닌 회색부분)에 마우스 우클릭시 마우스 위치가 top, left값을 가지는 새로운 쪽지를 생성합니다. answer.html 참고(기본 크기 div.textarea : width:200px, height:100px;)</li>
 <li>쪽지의 헤더 부분 드래그시 쪽지를 바탕화면 내에서 이동이 가능해야합니다.(Drag &amp; Drop 플러그인 사용금지, 직접구현해야 함)</li>
 <li>드래그 드랍 또는 내용 수정시에 해당하는 쪽지는 겹쳐진 쪽지 중 최상단으로 나와야합니다.</li>
